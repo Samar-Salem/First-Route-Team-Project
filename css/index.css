@@ -1,0 +1,14 @@
+body {
+    font-family: cursive;
+}
+.container > div {
+    background-color: #007bff;
+    width: 75%;
+    margin: 16px auto;
+    padding: 16px;
+    border-radius: 2px;
+    box-shadow: 5px 5px 10px rgb(59, 59, 59);
+    text-align: center;
+    color: #fff;
+    font-weight: 500;
+}
